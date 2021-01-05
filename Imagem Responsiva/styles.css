@@ -1,0 +1,32 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ nav ul {
+     list-style-type: none;
+     overflow: hidden;
+     background: #363636;
+
+ }
+
+ li a {
+     display: inline-block;
+     float: left;
+     padding: 15px;
+     background: #363636;
+     color: white;
+     text-decoration: none;
+     font-family: sans-serif;
+ }
+
+ li a:hover {
+     background: #777;
+ }
+
+ .active {
+     background: #23b751;
+ }
+.img-fluid{
+    width: 100%;
+}
